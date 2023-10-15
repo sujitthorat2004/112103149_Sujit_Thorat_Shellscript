@@ -96,3 +96,7 @@ print(heptagon.perimeter()) # output:14
 octagon = Octagon(5)
 print(octagon.area()) # output:120.71067811865474
 print(octagon.perimeter()) #output: 40
+print(octagon.perimeter())
+print(octagon.perimeter()) 
+
+
